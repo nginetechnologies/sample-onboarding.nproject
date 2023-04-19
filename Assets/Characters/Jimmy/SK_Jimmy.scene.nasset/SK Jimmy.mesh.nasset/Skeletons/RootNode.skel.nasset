@@ -1,0 +1,136 @@
+{
+    "guid": "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "b1b94d42-86b9-1dfc-4884-12333ffb0aea",
+    "data_components": [],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+    },
+    "joints": {
+        "006ca11e-3b0d-9d11-6583-7f481476cc60": {
+            "name": "SK_Jimmy",
+            "index": 30
+        },
+        "02c455ff-2935-36aa-4e1b-8a0472ed7768": {
+            "name": "LowerLeg_R",
+            "index": 26
+        },
+        "06702f4b-0f6b-c7f6-b41f-2a84b52ec53d": {
+            "name": "Body1",
+            "index": 3
+        },
+        "0869e1e1-349d-e576-4ed0-959634a2db89": {
+            "name": "Torso",
+            "index": 6
+        },
+        "20c66cf7-1aa7-dc1b-d4e9-c5c1d8ed2001": {
+            "name": "LowerLeg_L",
+            "index": 24
+        },
+        "338a01fd-1eb3-265c-6050-49596aa2bff9": {
+            "name": "UpperArm_L",
+            "index": 16
+        },
+        "38114f34-33df-8c92-249b-12c22847e71f": {
+            "name": "PoleTarget_R",
+            "index": 29
+        },
+        "3e35aad1-3191-0d2e-2c3d-eb4c79ffb5b3": {
+            "name": "Foot_L",
+            "index": 2
+        },
+        "4ff6beaf-7f6c-c87d-62f2-bf82511476b0": {
+            "name": "Foot_R",
+            "index": 28
+        },
+        "58fbb47f-730f-d807-76a7-253cc188a638": {
+            "name": "Ear1_R",
+            "index": 12
+        },
+        "5abdafb0-4b4a-83b6-df19-3d16efe380b0": {
+            "name": "Ear3_R",
+            "index": 14
+        },
+        "5c7730ba-79c6-0ad9-3bfc-7586b32d2088": {
+            "name": "UpperLeg_R",
+            "index": 25
+        },
+        "5ca085d2-f82d-087d-ab9f-1dfea75eee12": {
+            "name": "Fist_L",
+            "index": 18
+        },
+        "60f9265e-87e0-d76b-fed7-54dc598a513e": {
+            "name": "Shoulder_L",
+            "index": 15
+        },
+        "68eb131d-de8f-fb32-6778-0589a4951a3b": {
+            "name": "Shoulder_R",
+            "index": 19
+        },
+        "785cf9c1-56c2-5bf0-0330-9a6a0634e5cb": {
+            "name": "UpperLeg_L",
+            "index": 23
+        },
+        "79cbd3ea-c721-64cf-e1a2-f10e2e27ae4d": {
+            "name": "Root",
+            "index": 1
+        },
+        "94287991-39c5-7fd9-9c6b-2894fb97cf5f": {
+            "name": "Ear2_L",
+            "index": 10
+        },
+        "987ad358-d728-900c-0e21-bebb5cda973a": {
+            "name": "Ear1_L",
+            "index": 9
+        },
+        "a8132c56-36d3-1846-6e0f-8a3bf99e9be9": {
+            "name": "PoleTarget_L",
+            "index": 27
+        },
+        "adb7f5ff-39f4-4111-1bdd-0e1f639719a2": {
+            "name": "Hips",
+            "index": 4
+        },
+        "b0e22a51-0e54-4ec0-4788-1015ff17950c": {
+            "name": "Head",
+            "index": 8
+        },
+        "b2a18baa-5452-766b-6b2a-6d03ea7b457a": {
+            "name": "Abdomen",
+            "index": 5
+        },
+        "b5cfe24f-b812-2d19-c2dd-f4b753d037e1": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "c9558527-3cb0-ccb1-7d67-6aef9588b09a": {
+            "name": "Ear2_R",
+            "index": 13
+        },
+        "d000e3c5-0e5c-807e-1dd1-0371d6c26605": {
+            "name": "Fist_R",
+            "index": 22
+        },
+        "d0a718b1-9e9e-769c-db48-605a784e62ad": {
+            "name": "UpperArm_R",
+            "index": 20
+        },
+        "d4eefb35-960d-7a1c-1311-915a0eb13d2d": {
+            "name": "Neck",
+            "index": 7
+        },
+        "e1429f02-b433-b943-85a5-8775959c4f1d": {
+            "name": "LowerArm_R",
+            "index": 21
+        },
+        "f6ca125c-6320-5a1d-504f-c072b901e7b4": {
+            "name": "Ear3_L",
+            "index": 11
+        },
+        "faff10f1-c7b2-1dda-9b5b-295e3dd26de8": {
+            "name": "LowerArm_L",
+            "index": 17
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source": "A_Jimmy_Jump_Loop.fbx",
+    "skeleton": "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "6c1518b9-eebb-4090-b4d3-6654aa36351d"
+        }
+    ],
+    "guid": "6c1518b9-eebb-4090-b4d3-6654aa36351d",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+    ]
+}

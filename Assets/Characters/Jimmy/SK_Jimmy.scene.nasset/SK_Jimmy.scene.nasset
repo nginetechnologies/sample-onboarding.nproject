@@ -1,0 +1,34 @@
+{
+    "guid": "3b5a3b29-a814-9cac-093a-311515f691d7",
+    "source": "../SK_Jimmy.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "628a6314-6512-f78b-e3b0-11d5d4a13789",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Jimmy"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ac8c8ba3-4448-b8f7-a44a-7a5da929b31a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Jimmy"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cc9d547d-62d5-97e7-35a3-87305260a05b"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3b5a3b29-a814-9cac-093a-311515f691d7"
+    },
+    "dependencies": [
+        "cc9d547d-62d5-97e7-35a3-87305260a05b"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "A_Jimmy_Jump_End.fbx",
+    "skeleton": "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "59aa6dc7-64dc-4242-9afb-412812a96a9d"
+        }
+    ],
+    "guid": "59aa6dc7-64dc-4242-9afb-412812a96a9d",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+    ]
+}
