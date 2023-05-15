@@ -19,14 +19,14 @@
             },
             "transform": {
                 "position": [
-                    22.9608,
-                    -28.7537,
-                    25.9839
+                    -7.0814,
+                    -14.9285,
+                    10.8982
                 ],
                 "rotation": [
-                    -46.2354,
-                    -0.0,
-                    4.2469
+                    -23.4923,
+                    0.0,
+                    -45.9766
                 ]
             },
             "grid_settings": {
@@ -73,10 +73,6 @@
                     "templateInstanceGuid": "d5296264-226e-189f-626d-fb1a6c536194"
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Respawn Zone"
-                },
-                {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                     "type": 0,
                     "layer": 3,
@@ -84,6 +80,10 @@
                     "maximumAngularVelocity": 2699.9997,
                     "overriddenMass": 0.0,
                     "gravityScale": 1.0
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Respawn Zone"
                 }
             ],
             "children": [
@@ -328,6 +328,7 @@
         },
         {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "7838bd27-b688-f75c-65ce-4ad6a62870b9",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     2.9344,
@@ -337,13 +338,17 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9991
+                    -89.999
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
                 "asset": "194661d1-0651-499c-afc1-5dc0de75863b"
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7838bd27-b688-f75c-65ce-4ad6a62870b9"
+                },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
@@ -358,6 +363,7 @@
         },
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "4d520cdb-7cba-f5b6-9b30-f5fa57ad2004",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     3.2569,
@@ -389,6 +395,10 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4d520cdb-7cba-f5b6-9b30-f5fa57ad2004"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -402,6 +412,7 @@
         },
         {
             "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+            "instanceGuid": "7be54509-dd70-e4e4-3a63-1ed341cbeae0",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
                     -89.999,
@@ -413,7 +424,10 @@
                 "acceleration": 9.81
             },
             "data_components": [
-
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7be54509-dd70-e4e4-3a63-1ed341cbeae0"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
@@ -422,6 +436,7 @@
         },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "411f0334-698c-e009-765b-24757ea299d1",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -25.1403,
@@ -447,6 +462,10 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "411f0334-698c-e009-765b-24757ea299d1"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -460,6 +479,7 @@
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "6d891b65-da8b-27bf-25f2-3383aca9f538",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -472,7 +492,8 @@
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
-                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f"
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
@@ -480,7 +501,10 @@
                 "material_instance": "9b37984d-28bb-4840-a5cb-213238725947"
             },
             "data_components": [
-
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6d891b65-da8b-27bf-25f2-3383aca9f538"
+                },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
