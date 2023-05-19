@@ -19,14 +19,14 @@
             },
             "transform": {
                 "position": [
-                    -2.654,
-                    -12.8668,
-                    7.8902
+                    0.0893,
+                    -20.6891,
+                    15.6681
                 ],
                 "rotation": [
-                    -15.8716,
-                    0.0,
-                    -35.6982
+                    -34.2607,
+                    -0.0,
+                    -27.0014
                 ]
             },
             "grid_settings": {
@@ -34,12 +34,12 @@
                 "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
                     "transform": {
                         "position": [
-                            19.0,
-                            1.0,
-                            1.0
+                            3.0,
+                            0.0,
+                            6.0
                         ],
                         "scale": [
-                            1.0,
+                            -1.0,
                             -1.0,
                             1.0
                         ]
@@ -74,6 +74,10 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d5296264-226e-189f-626d-fb1a6c536194"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Respawn Zone"
                 },
@@ -85,10 +89,6 @@
                     "maximumAngularVelocity": 2699.9997,
                     "overriddenMass": 0.0,
                     "gravityScale": 1.0
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d5296264-226e-189f-626d-fb1a6c536194"
                 }
             ],
             "children": [
@@ -108,12 +108,12 @@
                     },
                     "data_components": [
                         {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Box Collider"
-                        },
-                        {
                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                             "templateInstanceGuid": "5dfb40fe-3825-8b2f-3752-c9d8935b3e94"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Box Collider"
                         }
                     ]
                 }
@@ -136,12 +136,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground 10x10"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "bb6fc8a4-796c-26e9-c94c-0e8c22b0297c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground 10x10"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -165,12 +165,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground 10x5"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "857e3bd6-e982-ac7a-0209-8cfdae40d503"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground 10x5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -194,12 +194,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground 10x10.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "d305454b-6542-088b-2985-587f10091096"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground 10x10.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -223,12 +223,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Arrow Side"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "71559818-692b-9ed1-7b29-a7640fa7d534"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrow Side"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -247,12 +247,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Plant Large"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f23d11e0-1e49-cd2e-5ebc-1ae0d987b627"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant Large"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -271,12 +271,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Plant Small"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c8c7028a-d9e9-bd23-98cf-d5d4989f9aaf"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant Small"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -295,12 +295,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "bd5ad7a3-ef51-3cd3-1504-105b0b570097"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -319,12 +319,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Bridge Flat"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f5fc3136-6a0e-1630-f6ec-bcea6a7e7fa2"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bridge Flat"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -351,8 +351,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7838bd27-b688-f75c-65ce-4ad6a62870b9"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -361,8 +361,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7838bd27-b688-f75c-65ce-4ad6a62870b9"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 }
             ]
         },
@@ -400,8 +400,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4d520cdb-7cba-f5b6-9b30-f5fa57ad2004"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -410,8 +410,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4d520cdb-7cba-f5b6-9b30-f5fa57ad2004"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 }
             ]
         },
@@ -430,12 +430,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Gravity"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "7be54509-dd70-e4e4-3a63-1ed341cbeae0"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
                 }
             ]
         },
@@ -467,8 +467,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "411f0334-698c-e009-765b-24757ea299d1"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -477,8 +477,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "411f0334-698c-e009-765b-24757ea299d1"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
                 }
             ]
         },
@@ -507,8 +507,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6d891b65-da8b-27bf-25f2-3383aca9f538"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -517,8 +517,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6d891b65-da8b-27bf-25f2-3383aca9f538"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 }
             ]
         },
@@ -534,12 +534,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "FinishFlag"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "28e08428-49f0-7373-4499-4f659f581b7f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "FinishFlag"
                 }
             ],
             "children": [
@@ -597,17 +597,17 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    179.9998
+                    179.9997
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sign Lesson 1"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "84abaa3f-5a64-f8c4-41c4-eb6649363d8e"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Lesson 1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -626,7 +626,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -29.1753
+                    -29.1752
                 ],
                 "scale": [
                     0.7296
@@ -634,17 +634,40 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Plant Small"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "c8c7028a-d9e9-bd23-98cf-d5d4989f9aaf"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant Small"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "d7389a8d-affa-9fa8-5135-4b6f23960de5"
             }
+        },
+        {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "instanceGuid": "5c412de8-fe3e-7096-8886-68cd72080597",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0283,
+                    -0.4122,
+                    6.0959
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "d57353f3-47c2-45c4-9a60-b1e53f530e10",
+                "looping": true,
+                "volume": 1.0,
+                "outer_radius": 5.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Green Town"
+                }
+            ]
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
