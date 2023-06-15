@@ -48,6 +48,11 @@
             }
         },
         {
+            "typeGuid": "ed329acb-74ef-4757-87bf-11311d0de4e9",
+            "tutorial": "c33995db-a034-4476-8899-509cba8a1617",
+            "finished": false
+        },
+        {
             "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
