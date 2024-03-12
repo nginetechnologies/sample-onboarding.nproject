@@ -589,36 +589,7 @@
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "9684f23e-c22b-36da-db4e-9cd80cfcfeab"
             }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "84abaa3f-5a64-f8c4-41c4-eb6649363d8e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    20.0,
-                    2.0,
-                    1.0
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    179.9997
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "84abaa3f-5a64-f8c4-41c4-eb6649363d8e"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sign Lesson 1"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4dd90bd0-f90d-7054-ecca-d85a5f0a4b9a"
-            }
-        },
+        },,
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "4516c744-93b0-ed75-f03b-dd48c3bc530a",
