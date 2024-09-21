@@ -9,14 +9,13 @@ jobs:
   publish_to_backend:
     name: "Publish to Backend"
 
-    runs-on: [self-hosted, linux]
+    runs-on: [self-hosted, Linux]
 
     steps:
     - name: checkout engine without LFS
       uses: actions/checkout@v4
       with:
         lfs: true
-        token: ${{ secrets.BUMP_ENGINE_GITHUB_TOKEN }}
     - name: Pull ProjectSystem docker image
       run: docker pull ghcr.io/nginetechnologies/projectsystem-dev:latest
     - name: Publish to backend
